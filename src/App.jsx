@@ -11,7 +11,7 @@ import Footer from './components/Footer'
 const App = () => {
   return (
     <div>
-    <Navbar/>
+      <Navbar/>
     <Hero/>
     <div className='container'>
       <Title subtitle='Our Services' title='We are specialized in'/>
