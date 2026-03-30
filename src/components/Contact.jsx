@@ -132,15 +132,6 @@ const Contact = () => {
               </div>
             </div>
 
-            <div className="bg-blue-50 rounded-2xl p-6 border border-blue-100">
-              <h4 className="font-bold text-gray-900 mb-2 flex items-center gap-2">
-                <MapPin className="w-5 h-5 text-blue-600" />
-                Service Area
-              </h4>
-              <p className="text-gray-500 text-sm leading-relaxed">
-                We serve Chicago, Evanston, Oak Park, Cicero, Berwyn, and surrounding communities within a 25-mile radius.
-              </p>
-            </div>
           </AnimatedSection>
 
           <AnimatedSection direction="left" delay={0.15}>
