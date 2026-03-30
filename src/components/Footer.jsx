@@ -130,10 +130,7 @@ const Footer = () => (
         <p className="text-xs">
           &copy; {new Date().getFullYear()} Windy City Laundry LLC. All Rights Reserved.
         </p>
-        <div className="flex gap-4 text-xs">
-          <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
-          <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
-        </div>
+
       </div>
     </div>
   </footer>
